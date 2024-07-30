@@ -79,3 +79,7 @@
       - scheduleAssignment(ArrayList<VirtualClassroom> classes, String cname, String assign): Schedules an assignment for the specified classroom if it exists.
       - assignmentSubmission(ArrayList<VirtualClassroom> classes, String id, String cname, String assign): Allows a student to submit an assignment for the specified classroom if both the student and the assignment exist.
   
+!["Result"](https://github.com/PushpaRani2113/EdTech/blob/main/EdTech/Output.png)
+
+
+!["Error Handling"](https://github.com/PushpaRani2113/EdTech/blob/main/EdTech/output1.png)
